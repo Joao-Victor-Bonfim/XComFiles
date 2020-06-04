@@ -2928,6 +2928,7 @@ en-US:
   STR_DART_RIFLE_CLIP_C_PREQ2: "Dart Rifle Clip C Prerequisite 2"
   STR_DART_RIFLE_CLIP_C_PREQ3: "Dart Rifle Clip C Prerequisite 3"
   STR_ALIEN_ENGINEERING_PREQ: "Alien Engineering Prerequisite"
+  STR_ALIEN_MEDIC_INTERROGATED: "Alien Medic Interrogated"
   STR_CULTIST_INTERROGATED: "Cultist Interrogated"
   STR_STRANGE_CREATURE_AUTOPSY: "Strange Creature Autopsy Performed"
   STR_STRANGE_CREATURE: "Strange Creature Described"

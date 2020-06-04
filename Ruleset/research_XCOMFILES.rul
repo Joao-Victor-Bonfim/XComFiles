@@ -5996,7 +5996,6 @@
     destroyItem: true
     unlocks:
       - STR_ALIEN_POWER_SYSTEMS_DEP_1
-      - STR_ALIEN_MEDIC_INTERROGATED
     getOneFree:
       - STR_ALIEN_INTERROGATED
     getOneFreeProtected:
@@ -21953,7 +21952,8 @@
   - name: STR_TROLLIUM
     cost: 0
     points: 0
-    needItem: true
+    dependencies:
+      - STR_TROLLIUM
 # dossiers
   - name: STR_DOSSIER_RENNIELLE_DIOLATA
     cost: 0
